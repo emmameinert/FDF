@@ -17,8 +17,13 @@ Fdf or "fil de fer" is my very first graphics project.
   
 - getting deeper knowledge of the use of structs (e.g. using them as coordinates)
 
-## isometric projection
+## Isometric projection
 
-## linear interpolation
+Isometric projection is used for giving 2D drawings depth and make them look like 3D.
+
+This is done by using a Rotation matrix on each coordinate of the map with a specific angle.
+<img width="218" alt="Screen Shot 2023-11-09 at 11 45 26 AM" src="https://github.com/emmameinert/Hiveprojects_fdf/assets/110816436/677705b1-a136-4421-a855-a97c552b61df">
+
+## Linear interpolation
 
 
