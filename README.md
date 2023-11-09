@@ -24,7 +24,7 @@ Isometric projection is used for giving 2D drawings depth and make them look lik
 This is done by using a Rotation matrix on each coordinate of the map with a specific angle (I chose 30 and 60 degrees for my optics).
 
 <img width="218" alt="Screen Shot 2023-11-09 at 11 45 26 AM" src="https://github.com/emmameinert/Hiveprojects_fdf/assets/110816436/677705b1-a136-4421-a855-a97c552b61df">
-[(Source)](https://en.wikipedia.org/wiki/Rotation_matrix)
+[Source](https://en.wikipedia.org/wiki/Rotation_matrix) 
 
 ## Linear interpolation
 
