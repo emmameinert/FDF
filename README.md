@@ -7,7 +7,7 @@ Fdf or "fil de fer" is my very first graphics project.
 
 ## Key learnings 
 
-- looking into parsing with this one using my [Get_next_line] (https://github.com/emmameinert/Hiveproject_gnl)https://github.com/emmameinert/Hiveproject_gnl function
+- looking into parsing with this one using my [Get_next_line](https://github.com/emmameinert/Hiveproject_gnl) function
   
 - making a 2D map 3D looking with isometric projection.
   
