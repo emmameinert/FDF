@@ -11,7 +11,7 @@ Fdf or "fil de fer" is my very first graphics project.
   
 - making a 2D map 3D looking with isometric projection.
   
-- coming up with a line drawing algorithm using [linear interpolation] (https://en.wikipedia.org/wiki/Linear_interpolation)https://en.wikipedia.org/wiki/Linear_interpolation
+- coming up with a line drawing algorithm using [linear interpolation](https://en.wikipedia.org/wiki/Linear_interpolation)
   
 - learning to use a graphics library (mlx, given by the 42school in this case)
   
