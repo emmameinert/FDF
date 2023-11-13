@@ -1,4 +1,4 @@
-# FDF
+# FDF - a graphics project with 42 MINIlibx
 
 Fdf or "fil de fer" is my very first graphics project. 
 
